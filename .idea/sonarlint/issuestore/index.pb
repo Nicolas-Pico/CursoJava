@@ -107,3 +107,5 @@ U
 %src/veintitres/Ejemplo02MatrixNM.java,0\2\02061e6068551cdffd6f86fc49faff6baba49b91
 V
 &src/veintitres/Problema01MatrixNM.java,3\4\34d5259dfa086156e6123b597acaaca17b0450dc
+X
+(src/CasoEstudioJava/CasoEstudioJava.java,1\1\11a0d63c66e53cb52ebfeeebc4e9240989b178ca

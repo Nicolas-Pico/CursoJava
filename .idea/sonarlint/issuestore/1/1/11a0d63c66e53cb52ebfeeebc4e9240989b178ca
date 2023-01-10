@@ -1,0 +1,87 @@
+
+…
+java:S11929"hDefine a constant instead of duplicating this literal "CANTIDAD DE CAMISETAS QUE DESEA LLEVAR:" 3 times.(‰´±8½»ôêÙ0
+€
+java:S1192<"cDefine a constant instead of duplicating this literal "NO HAY TANTAS UNIDADES DISPONIBLES" 3 times.(ñğµÏ8Ë»ôêÙ0
+i
+java:S2184?"GCast one of the operands of this multiplication operation to a "float".(¡ŞÊ§ıÿÿÿÿ8Û»ôêÙ0
+i
+java:S2184N"GCast one of the operands of this multiplication operation to a "float".(Îáœ®ıÿÿÿÿ8ë»ôêÙ0
+i
+java:S2184]"GCast one of the operands of this multiplication operation to a "float".(ÌÏÖÿÿÿÿÿ8ì»ôêÙ0
+c
+java:S2184p"GCast one of the operands of this multiplication operation to a "float".(ÉÔ8í»ôêÙ0
+i
+java:S2184{"GCast one of the operands of this multiplication operation to a "float".(È¤ÙÛøÿÿÿÿ8î»ôêÙ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÕçÓ
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Çµí‘8°ÃôêÙ0
+V
+java:S1854A"9Remove this useless assignment to local variable "total".(«±ş×8³ÃôêÙ0
+W
+java:S1854P":Remove this useless assignment to local variable "total1".(óìÀş8³ÃôêÙ0
+W
+java:S1854_":Remove this useless assignment to local variable "total2".(‡ãÓÌ8´ÃôêÙ0
+V
+java:S1854r"9Remove this useless assignment to local variable "total".(«±ş×8´ÃôêÙ0
+W
+java:S1854}":Remove this useless assignment to local variable "total1".(óìÀş8µÃôêÙ0
+f
+java:S1659"DDeclare "opcion1" and all following declarations on a separate line.(ĞÔÃ§ûÿÿÿÿ8·ÃôêÙ0
+I
+java:S1481",Remove this unused "retorno" local variable.(–êÒ«8ÄÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦¾ÖĞüÿÿÿÿ8ÅÃôêÙ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘©°—8ÆÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¼±öüÿÿÿÿ8ÇÃôêÙ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğø†í8ÈÃôêÙ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(êµá8ÉÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ûîûÿÿÿÿ8ÊÃôêÙ0
+>	java:S131""Add a default case to this switch.(°€àâ8ÌÃôêÙ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Â›ğ8ÍÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òƒ»ğøÿÿÿÿ8ÎÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎúÚÅüÿÿÿÿ8ÏÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÓ›ûÿÿÿÿ8ÏÃôêÙ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼ùßâúÿÿÿÿ8ĞÃôêÙ0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Õ»Ôîşÿÿÿÿ8ÑÃôêÙ0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Â›ğ8ÒÃôêÙ0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(úˆÀ‹øÿÿÿÿ8ÒÃôêÙ0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ö©Ï¶ÿÿÿÿÿ8ÓÃôêÙ0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(«Û®êùÿÿÿÿ8ÓÃôêÙ0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Õ»Ôîşÿÿÿÿ8ÔÃôêÙ0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Û»«†ùÿÿÿÿ8ÕÃôêÙ0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¯îç¨8ÕÃôêÙ0
+>	java:S1315""Add a default case to this switch.(ÎÀ±…8ÖÃôêÙ0
+b
+java:S16597"EDeclare "producto" and all following declarations on a separate line.(Ó¿¡Å8×ÃôêÙ0
+G
+java:S14817"*Remove this unused "total" local variable.(Ó¿¡Å8ØÃôêÙ0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(‰—¿ 8ØÃôêÙ0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(‰´±8ÙÃôêÙ0
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ñğµÏ8ÚÃôêÙ0
+h
+java:S1659F"FDeclare "producto1" and all following declarations on a separate line.(È€Ÿşÿÿÿÿ8ÛÃôêÙ0
+M
+java:S1481F"+Remove this unused "total1" local variable.(È€Ÿşÿÿÿÿ8ÜÃôêÙ0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(›³°À8ÜÃôêÙ0
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(‰´±8İÃôêÙ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ñğµÏ8ŞÃôêÙ0
+h
+java:S1659U"FDeclare "producto2" and all following declarations on a separate line.(«İÖ£ùÿÿÿÿ8ßÃôêÙ0
+M
+java:S1481U"+Remove this unused "total2" local variable.(«İÖ£ùÿÿÿÿ8àÃôêÙ0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(šÕÊüÿÿÿÿ8àÃôêÙ0
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(‰´±8áÃôêÙ0
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(ñğµÏ8âÃôêÙ0
+C	java:S131i""Add a default case to this switch.(ĞËÏ¸ûÿÿÿÿ8ãÃôêÙ0
+g
+java:S1659k"EDeclare "producto" and all following declarations on a separate line.(ÇñÒÑüÿÿÿÿ8ãÃôêÙ0
+L
+java:S1481k"*Remove this unused "total" local variable.(ÇñÒÑüÿÿÿÿ8äÃôêÙ0
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¾ÈÏ†8äÃôêÙ0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(Úà§õûÿÿÿÿ8åÃôêÙ0
+h
+java:S1659v"FDeclare "producto1" and all following declarations on a separate line.(È€Ÿşÿÿÿÿ8æÃôêÙ0
+M
+java:S1481v"+Remove this unused "total1" local variable.(È€Ÿşÿÿÿÿ8æÃôêÙ0
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(¾ÈÏ†8çÃôêÙ0
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(Úà§õûÿÿÿÿ8çÃôêÙ0
